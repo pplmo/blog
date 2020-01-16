@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/PurpleMystic-star/blog-backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/PurpleMystic-star/blog-frontend.git
