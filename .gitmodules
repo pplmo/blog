@@ -1,9 +1,9 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/PurpleMystic-star/blog-backend.git
+	url = https://github.com/pplmo/blog-backend.git
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/PurpleMystic-star/blog-frontend.git
+	url = https://github.com/pplmo/blog-frontend.git
 [submodule "database"]
 	path = database
-	url = https://github.com/PurpleMystic-star/blog-db-created-by-jpa.git
+	url = https://github.com/pplmo/blog-db-created-by-jpa.git
