@@ -1,12 +1,12 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/pplmo/blog-backend.git
-	branch = master
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/pplmo/blog-frontend.git
-	branch = master
+	branch = main
 [submodule "database"]
 	path = database
 	url = https://github.com/pplmo/blog-db-created-by-jpa.git
-	branch = master
+	branch = main
